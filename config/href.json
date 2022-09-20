@@ -1,0 +1,5 @@
+{
+  "UPLOAD_HREF": "https://cms.carsome.my/import/sell_import/upload_csvsell",
+  "LOGIN_HREF": "https://cms.carsome.my/main/login",
+  "UPLOAD_CHECK_HREF": "https://cms.carsome.my/sell_car/manage_inspection_slot/delete_session"
+}

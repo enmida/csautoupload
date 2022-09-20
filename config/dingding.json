@@ -1,0 +1,4 @@
+{
+  "DING_NOTICE_SUCCESS": "https://oapi.dingtalk.com/robot/send?access_token:xxxxxxxx",
+  "DING_NOTICE_FAIL": "https://oapi.dingtalk.com/robot/send?access_token:xxxxxxxx"
+}

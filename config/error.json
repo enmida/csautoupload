@@ -1,0 +1,8 @@
+{
+  "LOGIN_ERROR": "登录动作失败",
+  "UPLOAD_ERROR": "上传动作失败",
+  "NO_RESULT_ERROR": "已执行上传动作，但未在列表里查询到对应信息",
+  "BROWSER_ERROR": "浏览器启动失败",
+  "DATA_ERROR": "数据格式有误，上传失败",
+  "TIMEOUT_ERROR": "发生未知错误，任务执行超时"
+}
